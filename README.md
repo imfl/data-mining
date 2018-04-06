@@ -6,11 +6,13 @@
 
 *This repository is about an academic project on time series data mining.* 
 
-- For instructions to compile and use my code, and a full description of the accompanying data set, click [here](#user-content-instructions).
+- For instructions to compile and use the code, click [here](#user-content-instructions).
 
 - For the abstract and emprical results, click [here](#user-content-summary).
 
 - For more information about this project, click [here](#user-content-more-information).
+
+---
 
 Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which can be later applied in similarity research. Two steps are involved:
 
@@ -30,9 +32,9 @@ My originalities are
 1. computing lower bounds to skip many unnecessary computations
 2. using randomized local search within each column of the matrix
 
-### How To
+### Instructions
 
-An instruction on how to compile and use my code, and a full description of the source files and the accompanying data set is here (PDF).
+The instructions on how to compile and use my code, and a full description of every source file and the accompanying data set is here (PDF).
 
 ### Summary
 
