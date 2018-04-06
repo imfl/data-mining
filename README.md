@@ -8,7 +8,7 @@
 
 - For instructions on how to compile and use the code for the project, click [here](#user-content-instructions).
 
-- For the abstract and emprical results of the project, click [here](#user-content-summary).
+- For an abstract and emprical results of the project, click [here](#user-content-summary).
 
 - For more information about this project, click [here](#user-content-more-information).
 
@@ -34,7 +34,7 @@ My originalities are
 
 ### Instructions
 
-The instructions on how to compile and use my code, and a full description of every source file and the accompanying dataset is [here](instructions.pdf) (PDF).
+The instructions on how to compile and use my code, and a full description of every source file and the accompanying dataset is [here](README.pdf) (PDF).
 
 ### Summary
 
