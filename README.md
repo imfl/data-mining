@@ -13,8 +13,6 @@ In step 1, the current setting uses traditional Euclidean distance to measure ho
 
 ![dtw](image/dtw.png)
 
-
-
 As an initial attempt in the academic community, I introduced DTW into MP.
 
 The main challenge is -- the time complexity for computing DTW is high even for a single pair of points. It is infeasible to compute all the pairs in a matrix.
@@ -25,3 +23,5 @@ My originalities are
 2. use randomized local search within each column of the matrix
 
 An abstract of this project is [here](summary/abstract.pdf).
+
+The results of this project is [here](summary/results.pdf).
