@@ -24,4 +24,4 @@ My originalities are
 
 An abstract of this project is [here](summary/abstract.pdf).
 
-The results of this project is [here](summary/results.pdf).
+The results of this project are [here](summary/results.pdf).
