@@ -1,1 +1,1 @@
-![demo](blob/master/image/demo.gif)
+![demo](image/demo.gif)
