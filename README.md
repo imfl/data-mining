@@ -4,7 +4,7 @@
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
-*This repository is about an academic project on time series data mining.* 
+*This repository stores the C++ code for an academic project on time series data mining.* 
 
 - For instructions on how to compile and use the code for this project, click [here](#user-content-instructions).
 
