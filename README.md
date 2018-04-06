@@ -4,7 +4,13 @@
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
-*This repository is about an academic project on time series data mining. For how to compile and use my code, and a full description of the accompanying data set, click here. For PDF files of abstract and emprical results, click [here](#user-content-summary).*
+*This repository is about an academic project on time series data mining.* 
+
+- *For how to compile and use my code, and a full description of the accompanying data set, click [here](#user-content-how-to).*
+
+- *For PDF version of the abstract and emprical results, click [here](#user-content-summary).*
+
+- *For more information of this project, click [here](#user-content-more-information).*
 
 Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which can be later applied in similarity research. Two steps are involved:
 
@@ -21,13 +27,21 @@ The main challenge is -- the time complexity for computing DTW is sizeable even 
 
 My originalities are
 
-1. compute lower bounds to skip many unnecessary computations
-2. use randomized local search within each column of the matrix
+1. computing lower bounds to skip many unnecessary computations
+2. using randomized local search within each column of the matrix
+
+### How To
+
+An instruction on how to compile and use my code, and a full description of the source files and the accompanying data set is here (PDF).
 
 ### Summary
 
 An abstract of this project is [here](summary/abstract.pdf) (PDF).
 
 The empirical results are [here](summary/results.pdf) (PDF).
+
+### More Information
+
+This project is an academic project.
 
 [Back to Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
