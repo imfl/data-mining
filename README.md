@@ -1,8 +1,8 @@
 ![demo](image/demo.gif)
 
-*A demo of code. Note how fast the optimized algorithms are compared with brutal force. Over 95% of computations are skipped.*
+*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. More than 95% of the computation are saved.*
 
-## Introducing Dynamic Time Warping Distance into Matrix Profile
+# Introducing Dynamic Time Warping Distance into Matrix Profile
 
 *an academic project on time series data mining*
 
