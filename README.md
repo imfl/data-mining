@@ -22,14 +22,10 @@ My originalities are
 1. compute lower bounds to skip unnecessary computation
 2. use randomized local search within each column of the matrix
 
-The empirical results are
-
-![result1](image/results/result1.png)
-![result2](image/results/result2.png)
-![result3](image/results/result3.png)
-![result4](image/results/result4.png)
-![result5](image/results/result5.png)
+## Summary
 
 An abstract of this project is [here](summary/abstract.pdf).
+
+The empirical results are [here](summary/results.pdf).
 
 Back to [Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
