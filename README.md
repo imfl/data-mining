@@ -25,7 +25,7 @@ In Step 1, the current setting uses the traditional Euclidean distance to measur
 
 As an initial attempt in the academic community, I introduced DTW into MP.
 
-The main challenge is -- the time complexity for computing DTW is sizeable even for a single pair of points. It is infeasible to compute it for all the entries in a matrix.
+The main challenge is -- the time complexity for computing both MP and DTW are heavy themselves, making the combination of the two intimidatingly expensive.
 
 My originalities are
 
