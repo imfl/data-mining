@@ -56,6 +56,6 @@ This project was supervised by [Prof. Raymond Wong](https://www.cse.ust.hk/~rayw
 
 I am responsible for any errors and shortcomings in the algorithms and the code.
 
-For more of my projects, please visit my [GitHub pages](https://imfl.github.io).
+For more of my projects, please visit my [website](https://imfl.github.io) (GitHub Pages).
 
 [Back to Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
