@@ -6,11 +6,11 @@
 
 *This repository is about an academic project on time series data mining.* 
 
-- *For how to compile and use my code, and a full description of the accompanying data set, click [here](#user-content-how-to).*
+- For instructions to compile and use my code, and a full description of the accompanying data set, click [here](#user-content-instructions).
 
-- *For PDF version of the abstract and emprical results, click [here](#user-content-summary).*
+- For the abstract and emprical results, click [here](#user-content-summary).
 
-- *For more information of this project, click [here](#user-content-more-information).*
+- For more information about this project, click [here](#user-content-more-information).
 
 Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which can be later applied in similarity research. Two steps are involved:
 
