@@ -1,5 +1,7 @@
 ![demo](image/demo.gif)
 
+## My paragraph title
+
 #### Introducing Dynamic Time Warping Distance into Matrix Profile
 
 *an academic project on time series data mining*
@@ -32,4 +34,4 @@ The empirical results are
 
 An abstract of this project is [here](summary/abstract.pdf).
 
-Take me to [top](#user-content-Introducing-Dynamic-Time-Warping-Distance-into-Matrix-Profile)
+Take me to [Some text](#user-content-my-paragraph-title)
