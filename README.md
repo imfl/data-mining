@@ -1,4 +1,4 @@
-![demo](image/demo.gif)
+![demo](demo/demo.gif)
 
 *A demo of code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the entries are skipped.*
 
@@ -21,7 +21,7 @@ Matrix Profile (MP) has emerged as a new concept in the data mining community si
 
 In Step 1, the current setting uses the traditional Euclidean distance to measure how similar two subsequences are. However, a better approach would be using the Dynamic Time Warping (DTW) distance. See the graph below for intuition.
 
-![dtw](image/dtw.png)
+![dtw](demo/dtw.png)
 
 As an initial attempt in the academic community, I introduced DTW into MP.
 
