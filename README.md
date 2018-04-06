@@ -23,9 +23,15 @@ In Step 1, the current setting uses the traditional Euclidean distance to measur
 
 ![dtw](demo/dtw.png)
 
+*DTW is sharp in detecting similarity even if a curve has been stretched or squeezed.*
+
 As an initial attempt in the academic community, I introduced DTW into MP.
 
-The main challenge is -- the time complexity for computing both MP and DTW are heavy themselves, making the combination of the two intimidatingly expensive.
+The main challenge is --- the time complexity for computing both MP and DTW are heavy themselves, making the combination of the two intimidatingly expensive.
+
+![dtw-dp](demo/dtw-dp.png)
+
+*DTW is sharp in detecting similarity even if a curve has been stretched or squeezed.*
 
 My originalities are
 
