@@ -31,7 +31,7 @@ The main challenge is --- the time complexity for computing both MP and DTW are 
 
 ![dtw-dp](demo/dtw-dp.png)
 
-*DTW is sharp in detecting similarity even if a curve has been stretched or squeezed.*
+*Calculating DTW involves dynamic programming.*
 
 My originalities are
 
