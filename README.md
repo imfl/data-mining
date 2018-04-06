@@ -44,6 +44,12 @@ The empirical results are [here](summary/results.pdf) (PDF).
 
 ### More Information
 
-This project is an academic project that I did together with Lee Yik-Yeung, for *COMP5331: Knowledge Discovery in Databases*, a PhD-level course that I took at the CS department at HKUST in Fall 2017. This project was supervised by [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/), one of the best teachers that I has met in my life. I am responsible for any errors and shortcomings in the algorithms and the code. For more of my projects, please visit my [GitHub pages](https://imfl.github.io).
+This project is an academic project that I did together with Lee Yik-Yeung, for *COMP5331: Knowledge Discovery in Databases*, a PhD-level course that I took at the CS department at HKUST in Fall 2017.
+
+This project was supervised by [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/), one of the best teachers that I has ever met in my life. I would like to take this chance to again express my gratitude.
+
+I am responsible for any errors and shortcomings in the algorithms and the code.
+
+For more of my projects, please visit my [GitHub pages](https://imfl.github.io).
 
 [Back to Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
