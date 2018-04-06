@@ -6,7 +6,7 @@
 
 *This repository stores the C++ code for an academic project on time series data mining.* 
 
-- For instructions on how to compile and use the code for this project, click [here](#user-content-instructions).
+- For the instructions on how to compile and use the code for this project, click [here](#user-content-instructions).
 
 - For an abstract and emprical results of this project, click [here](#user-content-summary).
 
