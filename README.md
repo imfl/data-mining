@@ -1,1 +1,1 @@
-![demo](image\demo.gif)
+![demo](demo.gif)
