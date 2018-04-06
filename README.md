@@ -1,3 +1,5 @@
+![demo](image/demo.gif)
+
 #### Introducing Dynamic Time Warping Distance into Matrix Profile
 
 *an academic project on time series data mining*
@@ -15,13 +17,10 @@ In step 1, the current setting uses traditional Euclidean distance to measure ho
 
 As an initial attempt in the academic community, I introduced DTW into MP.
 
-The main challenge is -- the time complexity for computing DTW is high even for a single pair of points[^*]. It is infeasible to compute all the pairs in a matrix.
+The main challenge is -- the time complexity for computing DTW is high even for a single pair of points. It is infeasible to compute all the pairs in a matrix.
 
 My originalities are
 
 1. compute lower bounds to skip unnecessary computation
 2. use randomized local search within each column of the matrix
 
-[^*]: dynamic programming required
-
-![demo](image/demo.gif)
