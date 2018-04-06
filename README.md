@@ -1,6 +1,6 @@
 ![demo](image/demo.gif)
 
-*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the cost is spared.*
+*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the pairs are skipped.*
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
@@ -17,7 +17,7 @@ In step 1, the current setting uses traditional Euclidean distance to measure ho
 
 As an initial attempt in the academic community, I introduced DTW into MP.
 
-The main challenge is -- the time complexity for computing DTW is high even for a single pair of points. It is infeasible to compute all the pairs in a matrix.
+The main challenge is -- the time complexity for computing DTW is sizeable even for a single pair of points. It is infeasible to compute them for all the pairs in a matrix.
 
 My originalities are
 
