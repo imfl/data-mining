@@ -24,4 +24,4 @@ My originalities are
 1. compute lower bounds to skip unnecessary computation
 2. use randomized local search within each column of the matrix
 
-An abstract of this project is here. *[foo*](summary/abstract.pdf)
+An abstract of this project is [here](summary/abstract.pdf).
