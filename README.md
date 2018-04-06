@@ -32,4 +32,4 @@ The empirical results are
 
 An abstract of this project is [here](summary/abstract.pdf).
 
-Back to [Top](#user-content-Introducing-Dynamic-Time-Warping-Distance-into-Matrix-Profile)
+Back to [Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
