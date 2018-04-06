@@ -34,7 +34,7 @@ My originalities are
 
 ### Instructions
 
-The instructions on how to compile and use my code, and a full description of every source file and the accompanying dataset are [here](README.pdf) (PDF).
+The instructions on how to compile and use my code, and a full description of every source file and the dataset are [here](README.pdf) (PDF).
 
 ### Summary
 
