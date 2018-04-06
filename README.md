@@ -30,4 +30,4 @@ An abstract of this project is [here](summary/abstract.pdf) (PDF).
 
 The empirical results are [here](summary/results.pdf) (PDF).
 
-Back to [Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
+[Back to Top](#user-content-introducing-dynamic-time-warping-distance-into-matrix-profile)
