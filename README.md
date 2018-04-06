@@ -14,7 +14,7 @@
 
 ---
 
-Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which can be later applied in similarity research. Two steps are involved:
+Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which later can be applied in similarity research. Two steps are involved:
 
 1. construct a matrix profile
 2. use the matrix profile
@@ -29,8 +29,8 @@ The main challenge is -- the time complexity for computing both MP and DTW are h
 
 My originalities are
 
-1. computing lower bounds to skip many unnecessary computations
-2. using randomized local search within each column of the matrix
+1. adapting lower bound functions and using them to skip many unnecessary computations
+2. applying randomized local search within each column of the matrix
 
 ### Instructions
 
