@@ -1,7 +1,6 @@
 ![demo](image/demo.gif)
 
-*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force.*
-*Over 95% of the computation is saved.*
+*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. More than 95% of the computations are skipped.*
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
@@ -22,7 +21,7 @@ The main challenge is -- the time complexity for computing DTW is high even for 
 
 My originalities are
 
-1. compute lower bounds to skip unnecessary computation
+1. compute lower bounds to skip many unnecessary computations
 2. use randomized local search within each column of the matrix
 
 ### Summary
