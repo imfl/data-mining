@@ -6,9 +6,9 @@
 
 *This repository is about an academic project on time series data mining.* 
 
-- For instructions on how to compile and use the code, click [here](#user-content-instructions).
+- For instructions on how to compile and use the code for the project, click [here](#user-content-instructions).
 
-- For the abstract and emprical results, click [here](#user-content-summary).
+- For the abstract and emprical results of the project, click [here](#user-content-summary).
 
 - For more information about this project, click [here](#user-content-more-information).
 
