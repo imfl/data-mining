@@ -4,7 +4,7 @@
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
-*an academic project on time series data mining*
+*This repository is about an academic project on time series data mining. For how to compile and use my code, and a full description of the accompanying data set, click here. For PDF files of abstract and emprical results, click [here](#user-content-summary).*
 
 Matrix Profile (MP) has emerged as a new concept in the data mining community since 2016. It is a framework to extract information from time series, which can be later applied in similarity research. Two steps are involved:
 
