@@ -2,7 +2,7 @@
 
 *A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the work are saved.*
 
-# Introducing Dynamic Time Warping Distance into Matrix Profile
+## Introducing Dynamic Time Warping Distance into Matrix Profile
 
 *an academic project on time series data mining*
 
@@ -24,7 +24,7 @@ My originalities are
 1. compute lower bounds to skip unnecessary computation
 2. use randomized local search within each column of the matrix
 
-## Summary
+### Summary
 
 An abstract of this project is [here](summary/abstract.pdf).
 
