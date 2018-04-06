@@ -1,6 +1,6 @@
 ![demo](image/demo.gif)
 
-*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the work are saved.*
+*A demo of my code. Note how fast the optimized algorithms are, compared with brutal force. Over 95% of the computation is spared.*
 
 ## Introducing Dynamic Time Warping Distance into Matrix Profile
 
