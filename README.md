@@ -6,7 +6,7 @@
 
 *This repository is about an academic project on time series data mining.* 
 
-- For instructions to compile and use the code, click [here](#user-content-instructions).
+- For instructions on how to compile and use the code, click [here](#user-content-instructions).
 
 - For the abstract and emprical results, click [here](#user-content-summary).
 
@@ -34,7 +34,7 @@ My originalities are
 
 ### Instructions
 
-The instructions on how to compile and use my code, and a full description of every source file and the accompanying data set is here (PDF).
+The instructions on how to compile and use my code, and a full description of every source file and the accompanying dataset is [here](readme.pdf) (PDF).
 
 ### Summary
 
