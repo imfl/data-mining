@@ -19,13 +19,13 @@ Matrix Profile (MP) has emerged as a new concept in the data mining community si
 1. construct a matrix profile
 2. use the matrix profile
 
-In step 1, the current setting uses traditional Euclidean distance to measure how similar two subsequences are. However, a better approach would be using Dynamic Time Warping (DTW) distance. See the graph below for intuition.
+In Step 1, the current setting uses the traditional Euclidean distance to measure how similar two subsequences are. However, a better approach would be using the Dynamic Time Warping (DTW) distance. See the graph below for intuition.
 
 ![dtw](image/dtw.png)
 
 As an initial attempt in the academic community, I introduced DTW into MP.
 
-The main challenge is -- the time complexity for computing DTW is sizeable even for a single pair of points. It is infeasible to compute them for all the pairs in a matrix.
+The main challenge is -- the time complexity for computing DTW is sizeable even for a single pair of points. It is infeasible to compute it for all the entries in a matrix.
 
 My originalities are
 
